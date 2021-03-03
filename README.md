@@ -44,4 +44,3 @@
 </body>
 </html>
 
-출처: https://phpinside.tistory.com/entry/php강좌mysql강좌방명록-만들기-예제-13-방명록-양식-작성하기 [PHP 인사이드]
